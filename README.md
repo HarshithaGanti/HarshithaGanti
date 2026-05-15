@@ -76,12 +76,4 @@ I'm always open to collaborating on AI/ML projects, discussing new ideas, or jus
 
 ---
 
-## 📊 GitHub Activity
-
-![Harshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshithaGanti&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithaGanti&layout=compact&theme=radical&hide_border=true)
-
----
-
 ⭐ **Currently building projects that blend AI, automation, and real-world impact. Stay tuned!**
